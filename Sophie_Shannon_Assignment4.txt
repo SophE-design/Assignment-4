@@ -6,3 +6,11 @@ P5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/uTwJqJ2We
 Debugging chat transcript URL (optional):
 How it went:
 I was a little confused with the instructions but I think I figured it out. I decided to just draw flowers that each looked slightly different from one another. I cant seem to make the petals more stretched out, however I like the look of them still.
+
+--- 
+
+Challenge: 2
+P5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/MV-8cWCK7
+Debugging chat transcript URL (optional):
+How it went:
+I created a repeating pattern of three flowers per tile, each with different sizes and colors. The flowers are not equally seporated but I enjoy the abstract look. Overall the assignment wasn't difficult. 
