@@ -14,3 +14,11 @@ P5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/MV-8cWCK7
 Debugging chat transcript URL (optional):
 How it went:
 I created a repeating pattern of three flowers per tile, each with different sizes and colors. The flowers are not equally seporated but I enjoy the abstract look. Overall the assignment wasn't difficult. 
+
+--- 
+
+Challenge: 3
+P5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/cUgf06KJt
+Debugging chat transcript URL (optional):
+How it went:
+I updated my flower pattern by adding randomness to the colors, sizes, and positions, so each time it runs it looks slightly different while still keeping the same overall design. It was still pretty easy but more interesting to experiment with.
