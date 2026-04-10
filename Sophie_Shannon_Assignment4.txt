@@ -22,3 +22,12 @@ P5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/cUgf06KJt
 Debugging chat transcript URL (optional):
 How it went:
 I updated my flower pattern by adding randomness to the colors, sizes, and positions, so each time it runs it looks slightly different while still keeping the same overall design. It was still pretty easy but more interesting to experiment with.
+
+---
+
+chellenge: 4
+p5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/O6CPpRkGy
+Debugging chat transcript URL (optional):
+How it went:
+I updated and changed my flower pattern by altering the petals, I then added randomness and removed the noLoop() and put the randomness code in the draw function, so the design changes slightly every time it runs while still keeping the same overall structure.
+
